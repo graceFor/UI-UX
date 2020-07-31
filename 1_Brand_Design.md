@@ -3,3 +3,4 @@
 ## 브랜드 디자인
 
 1. Brand name, color, font(2가지 굵기로)
+   ![Brand_Design](./img/Brand_Design.png)
