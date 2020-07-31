@@ -30,15 +30,19 @@
       <img src="./img/space.png" width="50%" height="50%"> </img>
 
    3. 로고 사이즈
+
       <img src="./img/size.png" width="50%" height="50%"> </img>
 
 5. 브랜드 디자인 가이드 형식
 
    1. 로고사용규정
+
       <img src="./img/1.png" width="50%" height="50%"> </img>
 
    2. 색상사용규정
+
       <img src="./img/2.png" width="50%" height="50%"> </img>
 
    3. 폰트 시스템
+
       <img src="./img/3.png" width="50%" height="50%"> </img>
